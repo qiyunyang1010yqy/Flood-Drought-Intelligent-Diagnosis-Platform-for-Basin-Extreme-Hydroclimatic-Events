@@ -1,0 +1,3 @@
+﻿target,accuracy,precision,recall,f1,roc_auc,positive_samples,negative_samples,notes
+dtf_flag,0.9361702127659575,0.0,0.0,0.0,0.5183994283672739,59,1037,使用分层抽样；RandomForestClassifier(class_weight='balanced')；稀有事件筛查阈值=0.557
+ftd_flag,0.9452887537993921,0.25,0.0625,0.1,0.6164137380191693,54,1042,使用分层抽样；RandomForestClassifier(class_weight='balanced')；稀有事件筛查阈值=0.434

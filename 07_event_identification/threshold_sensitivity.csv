@@ -1,0 +1,13 @@
+﻿basin_name,threshold_scheme,drought_months,flood_months,dtf_count,ftd_count
+嘉陵江流域,scheme_1_precip_abs_0.8,67,64,22,18
+嘉陵江流域,scheme_2_precip_abs_1.0,61,60,20,16
+嘉陵江流域,scheme_3_precip_abs_1.2,56,60,18,14
+汉江流域,scheme_1_precip_abs_0.8,73,70,24,17
+汉江流域,scheme_2_precip_abs_1.0,62,64,19,12
+汉江流域,scheme_3_precip_abs_1.2,59,59,11,9
+洞庭湖流域,scheme_1_precip_abs_0.8,64,69,11,20
+洞庭湖流域,scheme_2_precip_abs_1.0,60,64,9,18
+洞庭湖流域,scheme_3_precip_abs_1.2,57,60,8,14
+鄱阳湖流域,scheme_1_precip_abs_0.8,64,63,14,15
+鄱阳湖流域,scheme_2_precip_abs_1.0,56,57,11,12
+鄱阳湖流域,scheme_3_precip_abs_1.2,51,53,7,7
